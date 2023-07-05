@@ -45,19 +45,6 @@ Linux下C++轻量级Web服务器，助力初学者快速实践网络编程，搭
 **注意：** 使用本项目的webbench进行压测时，若报错显示webbench命令找不到，将可执行文件webbench删除后，重新编译即可。
 
 
-
-源码下载
--------
-目前有两个版本，版本间的代码结构有较大改动，文档和代码运行方法也不一致。重构版本更简洁，原始版本(raw_version)更大保留游双代码的原汁原味，从原始版本更容易入手.
-
-如果遇到github代码下载失败，或访问太慢，可以从以下链接下载，与Github最新提交同步.
-
-* 重构版本下载地址 : [BaiduYun](https://pan.baidu.com/s/1PozKji8Oop-1BYcfixZR0g)
-    *  提取码 : vsqq
-* 原始版本(raw_version)下载地址 : [BaiduYun](https://pan.baidu.com/s/1asMNDW-zog92DZY1Oa4kaQ)
-    * 提取码 : 9wye
-    * 原始版本运行请参考[原始文档](https://github.com/qinguoyi/TinyWebServer/tree/raw_version)
-
 快速运行
 ------------
 * 服务器测试环境
